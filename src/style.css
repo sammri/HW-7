@@ -1,0 +1,7 @@
+.holder ul.list a[href^="https"] {
+    color: red;
+}
+
+.holder ul.list + p {
+    font-size: 24px;
+}
